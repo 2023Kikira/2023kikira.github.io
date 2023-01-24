@@ -36,7 +36,7 @@
 
 [离散数学](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
 
-[C 常见问题集](https://c-faq-chn.sourceforge.net/)、[Easy Hexo](https://easyhexo.com/)、[以正确的方式学习Python](https://learnpythontherightway.com/)
+[C 常见问题集](https://c-faq-chn.sourceforge.net/)、[Easy Hexo](https://easyhexo.com/)、[以正确的方式学习Python](https://learnpythontherightway.com/)、[Awesome Data Science with Python](https://github.com/r0f1/datascience)
 
 [如何使用 LaTeX 排版论文](https://github.com/tuna/thulib-latex-talk)、[LaTeX入门指南](https://latex.all2doc.com/start/)、[Graphviz绘图](https://itopic.org/graphviz.html)
 
@@ -44,17 +44,19 @@
 
 [中国软考](https://cspro.org/)
 
-[上交生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
+[上交生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)、[大学生活质量指北](https://colleges.chat/)
 
 [全局光照技术](https://github.com/ElvisQin/thegibook)、[Google 软件工程](https://qiangmzsx.github.io/Software-Engineering-at-Google/#/)、[现代统计图形](https://bookdown.org/xiangyun/msg/)、[GMT 中文手册](https://docs.gmt-china.org/latest/)
 
-[MIT 技术评论](https://www.technologyreview.com/)、[2600 News](https://www.2600.com/)、[安全内参](https://www.secrss.com/)
+[MIT 技术评论](https://www.technologyreview.com/)、[2600 News](https://www.2600.com/)、[安全内参](https://www.secrss.com/)、[科技爱好者周刊](https://github.com/ruanyf/weekly)
+
+[地震“学”科研入门教程](https://github.com/seismo-learn/seismology101)
 
 ## 科学团队
 
 [开放地理空间实验室](https://www.osgeo.cn/laboratory/index.html)、[地理加权建模实验室](http://gwmodel.whu.edu.cn/#/)
 
-[SU CTF战队](https://su-team.cn/)、[X1cT34m 小绿草信息安全实验室](https://ctf.njupt.edu.cn/members)
+[SU CTF战队](https://su-team.cn/)、[X1cT34m 小绿草信息安全实验室](https://ctf.njupt.edu.cn/members)、[::TEAM L::](https://l.xdsec.org/)
 
 [大数据分析与应用技术国家工程实验室](https://bda.pku.edu.cn/)
 
@@ -72,13 +74,13 @@
 
 [ScienceDirect](https://www.sciencedirect.com/)、[PubMed®](https://pubmed.ncbi.nlm.nih.gov/)、[arXiv](https://arxiv.org/)、[RSL](https://www.rsl.ru/)、[Crossref Metadata](https://search.crossref.org/)、[ProQuest](https://www.proquest.com/index)
 
-[Library Genesis 镜像](https://www.ooopn.com/tool/libgen/)、[Hallowlib](https://bk.hallowlib.org/)、
+[Library Genesis 镜像](https://www.ooopn.com/tool/libgen/)、[Hallowlib](https://bk.hallowlib.org/)、[易书zhelper](https://yibook.org/)
 
 [爱教材](https://itextbook.cn/f/index)、[爱学术](https://www.iresearchbook.cn/f)、[知网](https://www.cnki.net/)、[国外学位论文中国集团全文检索平台](https://www.pqdtcn.com/)
 
 ## 论坛社交
 
-[My Digital Life](https://forums.mydigitallife.net/)、[Stack Overflow](https://stackoverflow.com/)、[Qiita](https://qiita.com/)、[Lemma Soft Forums](https://lemmasoft.renai.us/forums/index.php)、[IFDB](https://ifdb.org/)
+[My Digital Life](https://forums.mydigitallife.net/)、[Stack Overflow](https://stackoverflow.com/)、[Qiita](https://qiita.com/)、[Lemma Soft Forums](https://lemmasoft.renai.us/forums/index.php)
 
 [超理论坛](https://chaoli.club/index.php/)、[看雪论坛](https://bbs.kanxue.com/)、[屌丝论坛](https://assbbs.com/)、[网上读书园地](https://readfree.net/bbs/index.php?main)、[阿莫电子论坛](https://www.amobbs.com/index.php)、[USTC评课社区](https://icourse.club/)、[北京 GNU/Linux 用户组](https://beijinglug.club/)、[纯美苹果园](http://null.goddessfantasy.net/bbs/index.php)、[月岛匿名版](https://moonchan.xyz/)、[466chan](https://damedesu.1145141919810.org/)、[BOG匿名版](http://bog.ac/)、[Stage3rd](http://ac.stage3rd.com/index.asp)、
 
@@ -86,10 +88,130 @@
 
 [Qiushi Wu](https://qiushiwu.github.io/)、[黄光星](http://doyoubi.github.io/)、[Manuel Blum](https://www.cs.cmu.edu/~mblum/)
 
-[零壹軒·笔记](https://note.qidong.name/)、[sukanka 的博客](https://blog.askk.cc/)、[乔大海的个人网站](https://qiaodahai.com/)、[CloudPool](https://zhuochi.org/)、[犀牛的博客](https://benpaodewoniu.github.io/)
+[零壹軒·笔记](https://note.qidong.name/)、[sukanka 的博客](https://blog.askk.cc/)、[乔大海的个人网站](https://qiaodahai.com/)、[CloudPool](https://zhuochi.org/)、[犀牛的博客](https://benpaodewoniu.github.io/)、[SaltyLeo's Blog](https://tstrs.me/)、[虾丸派](https://www.playpi.org/)、[Small Tech](https://smalltech.com.au/)、[吴川斌的博客](https://www.mr-wu.cn/)、[Aciano](https://amnesia-f.github.io/)、[Typecasting](https://ownpress.icu/)、[Pymarketer](https://pythonmarketer.com/)、[张振的小站](http://zhangzhen.plus/)、[MrWu](https://mrwu.red/)、[認識植物](http://kplant.biodiv.tw/)、[梅卫平の阅览室](https://meiweiping.cn/)、[土木坛子](https://tumutanzi.com/)、[Chawye Hsu](https://chawyehsu.com/)、[胡涂说](https://hutusi.com/)、[一刀斩の小窝](https://blog.yidaozhan.top/)、[老马的原创空间](https://www.cnblogs.com/stronghorse/p/14594337.html)、[研学分享](https://luosgeo.com/)、[释怀网](https://shiove.com/index.html)、[株式会社科学技術研究所](https://www.kagiken.co.jp/)
+
+[李阿玲-知乎](https://www.zhihu.com/people/li-a-ling)、[张学文-科学网](https://blog.sciencenet.cn/home.php?mod=space&uid=2024)
+
+[nao-なおすん](https://orz-nao.com/)、[柳川和樹](http://mus-mus.sub.jp/index.html)
+
+## 生活警示
+
+[zhttty诽谤案](https://mp.weixin.qq.com/s?__biz=Mzg4MzUwNzMyMQ==&mid=2247483762&idx=1&sn=ebc8b19f5ee566a0c242ac9459ec0ef2&chksm=cf472864f830a172cc8103423d1a8b3021cf1cc05849bee06a4a3465b85c7a6a1a0a2d475076&cur_album_id=2362361056083509248&scene=189#wechat_redirect)、[996.ICU](https://996.icu/#/zh_CN)、[润学](https://github.com/The-Run-Philosophy-Organization/run)、[自由软件，自由社会](https://fsfs-zh.readthedocs.io/)、[程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
+
+## 网页工具
+
+[Gridzzly](http://www.gridzzly.com/)、[头像生成器](https://mastergo.com/omg#/pc)、[奥云蒙文翻译](http://fy.mglip.com/pc)
+
+## 资源分享
+
+[TomyJan 镜像站](https://mirror.tomys.top/#mdui-dialog)、[Mac 萌新网](https://www.macxin.com/)、[麻辣GIS](https://malagis.com/category/gis-software/)、[Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)、[技术松鼠](https://www.jishusongshu.com/)、[好网站不私藏](https://www.207788.xyz/)、[新奇士Resilio Sync](https://www.synckeys.com/)
+
+## 游戏娱乐
+
+[IFDB](https://ifdb.org/)、[VNDB](https://vndb.org/)
+
+[云图计划维基百科](http://wiki.42lab.cloud/)、[よるのないくに2 攻略Wiki](http://wikisp.com/yorukuni2/)、[Atelier Series Guide](https://barrelwisdom.com/blog/atelier-series-guide)、[D&D Wiki](https://www.dandwiki.com/wiki/Main_Page)、[D&D 5E Wiki](https://www.dndwiki.io/)
+
+[炼金工房游戏资源](https://www.bilibili.com/read/cv16198455)、[Vimm's Lair](https://vimm.net/)、[GBT乐赏游戏空间](http://gbtgame.ysepan.com/)、[Switch520](https://xxxxx520.com/)、[青桔网](https://qingju.eu.org/)、[老男人游戏网](https://www.oldmanemu.net/)、[PSNDLv4](https://psndl.net/)
+
+[Watabou's Procgen Arcana](https://watabou.github.io/)、[Inkarnate](https://inkarnate.com/)、[Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator)、[易制地图](https://www.makeamap.cn/)、[HipkissMaps](https://www.hipkiss.org/scannedmaps/maps.html)
+
+[DOTOWN](https://dotown.maeda-design-room.net/)
+
+[The Cyberpunk Project](http://project.cyberpunk.ru/)、[един Киберпънк манифест на](http://project.cyberpunk.ru/idb/manifesto_bg.html)
+
+[中国诗歌研究中心-当代诗词](https://poetry.cnu.edu.cn/srsz/ddsc/index.htm)、[中國哲學書電子化計劃](https://ctext.org/zh)
 
 # 软件
+
+## 操作系统
+
+[FreeRTOS™](https://www.freertos.org/zh-cn-cmn-s/)
+
+[沧水的KMS服务](https://kms.cangshui.net/)、[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
 
 ## 开发工具
 
 [Git](https://git-scm.com/)
+
+[Godot Engine](https://godotengine.org/)、[Ren'Py](https://www.renpy.org/)、[ADRIFT](https://www.adrift.co/)
+
+[HBuilderX](https://www.dcloud.io/hbuilderx.html)
+
+
+## 系统工具
+
+[HWiNFO](https://www.hwinfo.com/)、[Process Lasso](https://bitsum.com/)、[Process Hacker](https://processhacker.sourceforge.io/)、[Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools)、[Multi Commander](http://multicommander.com/)、[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)、[RX-Explorer](https://github.com/zhuxb711/RX-Explorer)、[Mem Reduct](https://www.henrypp.org/product/memreduct)、[Windows Firewall Control](https://www.binisoft.org/wfc.php)、[NetLimiter](https://www.netlimiter.com/)、[Inazuma Search](https://inazumaapps.info/inazumasearch/)、[中州韻輸入法引擎](https://rime.im/)、[Keyviz](https://github.com/mulaRahul/keyviz)、[AdGuard](https://adguard.com/zh_cn/welcome.html)
+
+[Homebrew](https://github.com/Homebrew/brew)、[Scoop](https://scoop.sh/)、[Winget](https://github.com/microsoft/winget-cli)
+
+[Matsuri](https://github.com/MatsuriDayo/Matsuri)、[Surfboard](https://manual.getsurfboard.com/)、[Clash.Meta](https://docs.metacubex.one/)、[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)、[CFW汉化](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
+
+## 计算统计
+
+[Scheme Mechanics](http://groups.csail.mit.edu/mac/users/gjs/6946/installation.html)、[SageMath](https://www.sagemath.org/)、[R Project](https://www.r-project.org/)、[Python](https://www.python.org/)、[Qalculate!](https://qalculate.github.io/)
+
+[RStudio](https://posit.co/)、[JASP](https://github.com/jasp-stats/jasp-desktop)、[ImageJ](https://imagej.nih.gov/ij/)、[LabPlot](https://labplot.kde.org/)、[SciDAVis](https://sourceforge.net/projects/scidavis/)、[Veusz](https://veusz.github.io/)
+
+## 地理信息
+
+[QGIS](https://www.qgis.org/en/site/)、[OSGeo4W](https://www.osgeo.org/projects/osgeo4w/)、[Orfeo ToolBox](https://www.orfeo-toolbox.org/)、[Whitebox](https://www.whiteboxgeo.com/)
+
+## 外语语言
+
+[Poedit](https://poedit.net/)、[OmegaT](https://omegat.org/zh_CN/)、[GoldenDict 中文手册](https://github.com/Dictionaryphile/GoldenDict_zh_manual)、[CopyTranslator](https://copytranslator.github.io/)、[御坂翻译器](https://github.com/hanmin0822/MisakaTranslator)、[eSearch](https://github.com/xushengfeng/eSearch)
+
+## 文献办公
+
+[PDF补丁丁](https://github.com/wmjordan/PDFPatcher)、[PDF24 Creator](https://tools.pdf24.org/zh/creator)、[PDFtk Server](https://www.pdflabs.com/tools/pdftk-server/)
+
+[Office Tool Plus](https://github.com/YerongAI/Office-Tool)、[OneMore](https://github.com/stevencohn/OneMore)、[OnenoteTaggingKit](https://github.com/WetHat/OnenoteTaggingKit)、[OneMark](https://onemark.neuxlab.cn/)
+
+[ActivePresenter 9](https://atomisystems.com/activepresenter/)、[WPS Office](https://www.wps.com/)、[Trilium Notes](https://github.com/zadam/trilium)、[Zim](https://github.com/zim-desktop-wiki/zim-desktop-wiki)、[draw.io](https://github.com/jgraph/drawio)、[FreeMind](https://freemind.sourceforge.net/wiki/index.php/Main_Page)、[Freeplane](https://docs.freeplane.org/)、[TeXmacs](http://texmacs.org/tmweb/download/windows.en.html)
+
+[Zotero](https://github.com/zotero/zotero)
+> [Jasminum茉莉花](https://github.com/l0o0/jasminum)、[Zotero 插件下载](https://zotero-chinese.gitee.io/zotero-plugins/#/)
+
+[caj2pdf-qt](https://github.com/sainnhe/caj2pdf-qt)、[zip2pdf](https://github.com/Davy-Zhou/zip2pdf)
+
+[Snipaste](https://www.snipaste.com/)、[obs-studio](https://github.com/obsproject/obs-studio)
+
+## 下载分享
+
+[Air Explorer](https://www.airexplorer.net/zh-cn/download/)、[ALIST](https://alist.nn.ci/)
+
+[Qdown](https://lightzhan.xyz/index.php/qdown/)、[File centipede](https://github.com/filecxx/FileCentipede)、[NeatDownloadManager](http://neatdownloadmanager.com/index.php/en/)、[FDM](https://www.freedownloadmanager.org/zh/)、[BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go)
+
+[Syncthing](https://github.com/syncthing/syncthing)、[Resilio Sync](https://www.resilio.com/individuals/)
+
+## 论坛社交
+
+[X岛匿名版](https://app.nmbxd.com/)、[NGA客户端开源版](https://github.com/Justwen/NGA-CLIENT-VER-OPEN-SOURCE)、[NGA客户端开源版with S1](https://gitee.com/TomoeMami/NGA-CLIENT-VER-OPEN-SOURCE)、[S1 Next](https://github.com/ykrank/S1-Next)、[koalcat](https://s1fun.koalcat.com/)、[TiebaLite](https://github.com/HuanCheng65/TiebaLite)、[Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)、[Nekogram](https://nekogram.app/zh-hans/)、[64Gram](https://github.com/TDesktop-x64/tdesktop)、[Better Discord](https://github.com/BetterDiscord/BetterDiscord)、[ICQ](https://icq.com/desktop/en?#windows)、[Libera.​Chat](https://libera.chat/guides/clients)、[Pake](https://github.com/tw93/Pake)
+
+## 艺术娱乐
+
+[Tachiyomi](https://tachiyomi.org/)、[Houdoku](https://houdoku.org/)、[]()
+
+[Flashpoint](https://bluemaxima.org/flashpoint/)
+
+[Watt Toolkit](https://github.com/BeyondDimension/SteamTools)、[Playnite](https://playnite.link/)
+
+[Veloren](https://github.com/veloren/veloren)
+
+[BlueStacks](https://bstweaker.tk/ru/bluestacks-all-download)、[PCSX2](https://pcsx2.net/)、[RetroArch](https://www.retroarch.com/)
+
+[yuzu](https://yuzu-emu.org/)、[Ryujinx](https://ryujinx.org/)
+
+>[Firmware for the Nintendo Switch](https://github.com/THZoria/NX_Firmware)
+
+[MakeHuman](http://www.makehumancommunity.org/)、[GraphicsGale](https://graphicsgale.com/us/)、[LazPaint](https://lazpaint.github.io/)、[Lorien](https://github.com/mbrlabs/Lorien)、[Krita](https://github.com/KDE/krita)、[Paint.NET](https://www.getpaint.net/)、[Storyboarder](https://github.com/wonderunit/storyboarder)
+
+[OpenBoard](https://openboard.ch/index.en.html)、[gInk](https://github.com/geovens/gInk)、[Epic Pen](https://epicpen.com/)
+
+[IrfanView](https://www.irfanview.com/)、[Imagine](https://www.nyam.pe.kr/dev/imagine/)、[Potplayer](http://potplayer.tv/)、[ZY Player](https://github.com/Hunlongyu/ZY-Player)、[洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop)
+
+[BetterNCM II](https://github.com/MicroCBer/BetterNCM)、[VRoidChinese](https://github.com/xiaoye97/VRoidChinese)
+
+[LeoCAD](https://www.leocad.org/)、[STUDIO 2.0](https://www.bricklink.com/r3/studio/download.page)
+
+[NsisoLauncher](https://github.com/Nsiso/NsisoLauncher)、[Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/)、[BakaXL](https://www.bakaxl.com/)
